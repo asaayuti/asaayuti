@@ -21,7 +21,7 @@ Check out my portfolio and latest projects on my website: [ahmadsayuti.dev](http
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/asaayuti">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asaayuti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
