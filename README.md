@@ -4,7 +4,7 @@
 
 👨‍💻 **Mobile Developer** | Android Developer · Flutter Enthusiast
 
-I'm a software engineer specializing in mobile app development. I have strong experience building Android applications using Kotlin and Java, and I'm also familiar with developing cross-platform apps using Flutter and Dart. I'm passionate about creating high-quality mobile apps and continuously learning new technologies in the mobile ecosystem.
+I'm a software engineer specializing in mobile app development. I have strong experience building Android applications using Kotlin and familiar with Java, and I'm also familiar with developing cross-platform apps using Flutter and Dart. I'm passionate about creating high-quality mobile apps and continuously learning new technologies in the mobile ecosystem.
 
 
 ### 🛠 Tech Stack
